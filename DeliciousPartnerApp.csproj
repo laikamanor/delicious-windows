@@ -1,0 +1,2180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1FBD659B-FC57-42D6-AEC8-8F97439C3A6F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DeliciousPartnerApp</RootNamespace>
+    <AssemblyName>DeliciousPartnerApp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>delicious.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="ClosedXML, Version=0.94.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x86\Debug\ClosedXML.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Map.v18.2.Core, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v18.2.Core, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraMap.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DocumentFormat.OpenXml, Version=2.5.5631.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\Visual Studio 2015\Projects\ARED DOOR KITCHEN\AK POS\bin\x64\Debug\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelNumberFormat">
+      <HintPath>..\..\..\Visual Studio 2015\Projects\ARED DOOR KITCHEN\AK POS\bin\x64\Debug\ExcelNumberFormat.dll</HintPath>
+    </Reference>
+    <Reference Include="FastMember">
+      <HintPath>..\..\..\Visual Studio 2015\Projects\ARED DOOR KITCHEN\AK POS\bin\x64\Debug\FastMember.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="KeepAutomation.BarcodeReader">
+      <HintPath>..\..\..\..\Desktop\KeepAutomation.BarcodeReader.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Connections.Abstractions, Version=5.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.AspNetCore.Connections.Abstractions.5.0.1\lib\net461\Microsoft.AspNetCore.Connections.Abstractions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Http.Connections.Client, Version=5.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.AspNetCore.Http.Connections.Client.5.0.1\lib\net461\Microsoft.AspNetCore.Http.Connections.Client.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Http.Connections.Common, Version=5.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.AspNetCore.Http.Connections.Common.5.0.1\lib\net461\Microsoft.AspNetCore.Http.Connections.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Http.Features, Version=5.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.AspNetCore.Http.Features.5.0.1\lib\net461\Microsoft.AspNetCore.Http.Features.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.SignalR.Client, Version=5.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.AspNetCore.SignalR.Client.5.0.1\lib\net461\Microsoft.AspNetCore.SignalR.Client.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.SignalR.Client.Core, Version=5.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.AspNetCore.SignalR.Client.Core.5.0.1\lib\net461\Microsoft.AspNetCore.SignalR.Client.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.SignalR.Common, Version=5.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.AspNetCore.SignalR.Common.5.0.1\lib\net461\Microsoft.AspNetCore.SignalR.Common.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.SignalR.Protocols.Json, Version=5.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.AspNetCore.SignalR.Protocols.Json.5.0.1\lib\net461\Microsoft.AspNetCore.SignalR.Protocols.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration, Version=3.1.9.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Configuration.3.1.9\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Abstractions, Version=3.1.9.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Configuration.Abstractions.3.1.9\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Binder, Version=3.1.9.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Configuration.Binder.3.1.9\lib\netstandard2.0\Microsoft.Extensions.Configuration.Binder.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection, Version=5.0.0.1, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.DependencyInjection.5.0.1\lib\net461\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.DependencyInjection.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Http, Version=3.1.9.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Http.3.1.9\lib\netstandard2.0\Microsoft.Extensions.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Logging.5.0.0\lib\net461\Microsoft.Extensions.Logging.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Logging.Abstractions.5.0.0\lib\net461\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Options.5.0.0\lib\net461\Microsoft.Extensions.Options.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Extensions.Primitives.5.0.0\lib\net461\Microsoft.Extensions.Primitives.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="RestSharp, Version=106.11.7.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>packages\RestSharp.106.11.7\lib\net452\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.ComponentModel.Annotations.4.7.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Diagnostics.DiagnosticSource.5.0.0\lib\net46\System.Diagnostics.DiagnosticSource.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO">
+      <HintPath>packages\System.IO.4.3.0\lib\net462\System.IO.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.IO.Pipelines, Version=5.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.IO.Pipelines.5.0.1\lib\net461\System.IO.Pipelines.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http">
+      <HintPath>packages\System.Net.Http.4.3.4\lib\net46\System.Net.Http.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.AspNet.WebApi.Client.5.2.7\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Sockets">
+      <HintPath>packages\System.Net.Sockets.4.3.0\lib\net46\System.Net.Sockets.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.4.3.0\lib\net462\System.Runtime.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.5.0.0\lib\net45\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.InteropServices.RuntimeInformation, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.InteropServices.RuntimeInformation.4.3.0\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Security.Cryptography.Algorithms, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Security.Cryptography.Algorithms.4.3.0\lib\net463\System.Security.Cryptography.Algorithms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Security.Cryptography.Encoding.4.3.0\lib\net46\System.Security.Cryptography.Encoding.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Security.Cryptography.Primitives.4.3.0\lib\net46\System.Security.Cryptography.Primitives.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Security.Cryptography.X509Certificates.4.3.0\lib\net461\System.Security.Cryptography.X509Certificates.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Encodings.Web.5.0.0\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Text.Json.5.0.0\lib\net461\System.Text.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Threading.Channels, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Channels.5.0.0\lib\net461\System.Threading.Channels.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Tulpep.NotificationWindow, Version=1.1.37.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Tulpep.NotificationWindow.1.1.37\lib\net40\Tulpep.NotificationWindow.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="UIAutomationClient" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddActualCash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddActualCash.Designer.cs">
+      <DependentUpon>AddActualCash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddAdvancePayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAdvancePayment.Designer.cs">
+      <DependentUpon>AddAdvancePayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddAltUOM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAltUOM.Designer.cs">
+      <DependentUpon>AddAltUOM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddBranch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddBranch.Designer.cs">
+      <DependentUpon>AddBranch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCustomer.Designer.cs">
+      <DependentUpon>AddCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddCustomer_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCustomer_Details.Designer.cs">
+      <DependentUpon>AddCustomer_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddGLAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddGLAccount.Designer.cs">
+      <DependentUpon>AddGLAccount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddItem.Designer.cs">
+      <DependentUpon>AddItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddObjectType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddObjectType.Designer.cs">
+      <DependentUpon>AddObjectType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddPriceList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddPriceList.Designer.cs">
+      <DependentUpon>AddPriceList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddSeries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddSeries.Designer.cs">
+      <DependentUpon>AddSeries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddUOM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddUOM.Designer.cs">
+      <DependentUpon>AddUOM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddUOMGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddUOMGroup.Designer.cs">
+      <DependentUpon>AddUOMGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddUser.Designer.cs">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddAdjustmentIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddAdjustmentIn.Designer.cs">
+      <DependentUpon>AddAdjustmentIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddWarehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddWarehouse.Designer.cs">
+      <DependentUpon>AddWarehouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdjustmentIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdjustmentIn.Designer.cs">
+      <DependentUpon>AdjustmentIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdjustmentIn2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdjustmentIn2.Designer.cs">
+      <DependentUpon>AdjustmentIn2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdjustmentIn_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdjustmentIn_Details.Designer.cs">
+      <DependentUpon>AdjustmentIn_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvancePayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdvancePayment.Designer.cs">
+      <DependentUpon>AdvancePayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdvancePayment2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdvancePayment2.Designer.cs">
+      <DependentUpon>AdvancePayment2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AltUOM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AltUOM.Designer.cs">
+      <DependentUpon>AltUOM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AmountRemaks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AmountRemaks.Designer.cs">
+      <DependentUpon>AmountRemaks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="API Class\Advance Payment\advancepayment_class.cs" />
+    <Compile Include="API Class\Branch\branch_class.cs" />
+    <Compile Include="API Class\Customer Type\customertype_class.cs" />
+    <Compile Include="API Class\Customer\customer_class.cs" />
+    <Compile Include="API Class\Item Group\itemgroup_class.cs" />
+    <Compile Include="API Class\Items\item_class.cs" />
+    <Compile Include="API Class\Notification\notification_class.cs" />
+    <Compile Include="API Class\Payment Type\paymenttype_class.cs" />
+    <Compile Include="API Class\POS\sales_class.cs" />
+    <Compile Include="API Class\Pricelist\pricelist_class.cs" />
+    <Compile Include="API Class\Reports\finalCount_class.cs" />
+    <Compile Include="API Class\SOA\soa_class.cs" />
+    <Compile Include="API Class\Transfer\transfer_class.cs" />
+    <Compile Include="API Class\User\user_clas.cs" />
+    <Compile Include="API Class\Warehouse\warehouse_class.cs" />
+    <Compile Include="APIIIIIIII.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="APIIIIIIII.Designer.cs">
+      <DependentUpon>APIIIIIIII.cs</DependentUpon>
+    </Compile>
+    <Compile Include="asyncccccccccc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="asyncccccccccc.Designer.cs">
+      <DependentUpon>asyncccccccccc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Barcodee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barcodee.Designer.cs">
+      <DependentUpon>Barcodee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Branches.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Branches.Designer.cs">
+      <DependentUpon>Branches.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Branches2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Branches2.Designer.cs">
+      <DependentUpon>Branches2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashTransactionReportDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashTransactionReportDetails.Designer.cs">
+      <DependentUpon>CashTransactionReportDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashTransactionReportItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashTransactionReportItems.Designer.cs">
+      <DependentUpon>CashTransactionReportItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashVariance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashVariance.Designer.cs">
+      <DependentUpon>CashVariance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashVariance2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashVariance2.Designer.cs">
+      <DependentUpon>CashVariance2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="countReports.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>countReports.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crDialog.Designer.cs">
+      <DependentUpon>crDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="crPrintCustomerLedgerDetails.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crPrintCustomerLedgerDetails.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crPrintTransfer.cs">
+      <DependentUpon>crPrintTransfer.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="crPrintTransferReceiveCopy.cs">
+      <DependentUpon>crPrintTransferReceiveCopy.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="CustomerLedger_CR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerLedger_CR.Designer.cs">
+      <DependentUpon>CustomerLedger_CR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customers.Designer.cs">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="customMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="customMessageBox.Designer.cs">
+      <DependentUpon>customMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\dsBranches.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsBranches.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\dsCustomerLedgerDetails.cs">
+      <DependentUpon>dsCustomerLedgerDetails.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\dsCustomerLedgerDetails.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsCustomerLedgerDetails.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\dsDiscountTypeSummary.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsDiscountTypeSummary.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\dsEmployeeCharge.cs">
+      <DependentUpon>dsEmployeeCharge.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\dsEmployeeCharge.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsEmployeeCharge.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\dsFinal.cs">
+      <DependentUpon>dsFinal.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\dsFinal.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsFinal.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\dsFinalReport_SubQuery1.cs">
+      <DependentUpon>dsFinalReport_SubQuery1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\dsFinalReport_SubQuery1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsFinalReport_SubQuery1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\dsFinalSales.cs">
+      <DependentUpon>dsFinalSales.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\dsFinalSales.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsFinalSales.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\dsPullOut.cs">
+      <DependentUpon>dsPullOut.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\dsPullOut.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsPullOut.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\dsSOA.cs">
+      <DependentUpon>dsSOA.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\dsSOA.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsSOA.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\dsToPay.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsToPay.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\dsTransfer.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsTransfer.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\PaymentMethod.cs">
+      <DependentUpon>PaymentMethod.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\PaymentMethod.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PaymentMethod.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="dbOfflineDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbOfflineDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="crPrintTransferOriginalCopy.cs">
+      <DependentUpon>crPrintTransferOriginalCopy.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="editCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editCustomer.Designer.cs">
+      <DependentUpon>editCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditWarehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditWarehouse.Designer.cs">
+      <DependentUpon>EditWarehouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InventoryDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InventoryDetails.Designer.cs">
+      <DependentUpon>InventoryDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerSalesReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerSalesReport.Designer.cs">
+      <DependentUpon>CustomerSalesReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PendingOrder_SAPAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PendingOrder_SAPAR.Designer.cs">
+      <DependentUpon>PendingOrder_SAPAR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="printCustomerLedgerDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="printCustomerLedgerDetails.Designer.cs">
+      <DependentUpon>printCustomerLedgerDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="printTransfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="printTransfer.Designer.cs">
+      <DependentUpon>printTransfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="print_toPay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="print_toPay.Designer.cs">
+      <DependentUpon>print_toPay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sales.Designer.cs">
+      <DependentUpon>Sales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="salesAmountSummaryReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesAmountSummaryReport.Designer.cs">
+      <DependentUpon>salesAmountSummaryReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="salesAmountSummaryReport_customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesAmountSummaryReport_customer.Designer.cs">
+      <DependentUpon>salesAmountSummaryReport_customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesReturn.Designer.cs">
+      <DependentUpon>SalesReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesReturn_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesReturn_Details.Designer.cs">
+      <DependentUpon>SalesReturn_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesReturn_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesReturn_Form.Designer.cs">
+      <DependentUpon>SalesReturn_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesTab.Designer.cs">
+      <DependentUpon>SalesTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SAPARDone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SAPARDone.Designer.cs">
+      <DependentUpon>SAPARDone.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SAPARDoneDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SAPARDoneDetails.Designer.cs">
+      <DependentUpon>SAPARDoneDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SASR0.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SASR0.Designer.cs">
+      <DependentUpon>SASR0.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SASR1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SASR1.Designer.cs">
+      <DependentUpon>SASR1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SASR2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SASR2.Designer.cs">
+      <DependentUpon>SASR2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectBranch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectBranch.Designer.cs">
+      <DependentUpon>SelectBranch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Select_SalesReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Select_SalesReturn.Designer.cs">
+      <DependentUpon>Select_SalesReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SOATab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SOATab.Designer.cs">
+      <DependentUpon>SOATab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ToPayPrint.cs">
+      <DependentUpon>ToPayPrint.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="EditAdvancePayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditAdvancePayment.Designer.cs">
+      <DependentUpon>EditAdvancePayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditBranch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditBranch.Designer.cs">
+      <DependentUpon>EditBranch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditUOMGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditUOMGroup.Designer.cs">
+      <DependentUpon>EditUOMGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DiscountType.cs">
+      <DependentUpon>DiscountType.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Items_DX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items_DX.Designer.cs">
+      <DependentUpon>Items_DX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NotificationTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NotificationTab.Designer.cs">
+      <DependentUpon>NotificationTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="printSOA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="printSOA.Designer.cs">
+      <DependentUpon>printSOA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SOA_crystalReports_receiving.cs">
+      <DependentUpon>SOA_crystalReports_receiving.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="SOA_crystalReports_original.cs">
+      <DependentUpon>SOA_crystalReports_original.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="SOA_crystalReports.cs">
+      <DependentUpon>SOA_crystalReports.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="EnterAmount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterAmount.Designer.cs">
+      <DependentUpon>EnterAmount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnterBranch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterBranch.Designer.cs">
+      <DependentUpon>EnterBranch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnterDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterDate.Designer.cs">
+      <DependentUpon>EnterDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerLedgerDetailsReport.cs">
+      <DependentUpon>CustomerLedgerDetailsReport.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="finalReport1.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>finalReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="finalSales.cs">
+      <DependentUpon>finalSales.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="FinalReport_SubQuery1.cs">
+      <DependentUpon>FinalReport_SubQuery1.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forSAPAR_Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forSAPAR_Items.Designer.cs">
+      <DependentUpon>forSAPAR_Items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forSAPAR_SAPNumber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forSAPAR_SAPNumber.Designer.cs">
+      <DependentUpon>forSAPAR_SAPNumber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forSAPIP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forSAPIP.Designer.cs">
+      <DependentUpon>forSAPIP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forSAPIP2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forSAPIP2.Designer.cs">
+      <DependentUpon>forSAPIP2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forSAPIP2_Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forSAPIP2_Items.Designer.cs">
+      <DependentUpon>forSAPIP2_Items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GLAccountDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GLAccountDetails.Designer.cs">
+      <DependentUpon>GLAccountDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GLAccounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GLAccounts.Designer.cs">
+      <DependentUpon>GLAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventory.Designer.cs">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IPRemarks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IPRemarks.Designer.cs">
+      <DependentUpon>IPRemarks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="isIssuedProdOrderItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="isIssuedProdOrderItems.Designer.cs">
+      <DependentUpon>isIssuedProdOrderItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IssueForProduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IssueForProduction.Designer.cs">
+      <DependentUpon>IssueForProduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemDeposit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemDeposit.Designer.cs">
+      <DependentUpon>ItemDeposit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemDiscount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemDiscount.Designer.cs">
+      <DependentUpon>ItemDiscount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemInfo.Designer.cs">
+      <DependentUpon>ItemInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemRequest.Designer.cs">
+      <DependentUpon>ItemRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemRequest2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemRequest2.Designer.cs">
+      <DependentUpon>ItemRequest2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemRequest_ForProduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemRequest_ForProduction.Designer.cs">
+      <DependentUpon>ItemRequest_ForProduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemRequest_Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemRequest_Items.Designer.cs">
+      <DependentUpon>ItemRequest_Items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Items.Designer.cs">
+      <DependentUpon>Items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemSalesReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemSalesReport.Designer.cs">
+      <DependentUpon>ItemSalesReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItemSalesReport_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ItemSalesReport_Details.Designer.cs">
+      <DependentUpon>ItemSalesReport_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="linkPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="linkPassword.Designer.cs">
+      <DependentUpon>linkPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notification.Designer.cs">
+      <DependentUpon>Notification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Notification2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Notification2.Designer.cs">
+      <DependentUpon>Notification2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NotificationBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NotificationBar.Designer.cs">
+      <DependentUpon>NotificationBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ObjectType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectType.Designer.cs">
+      <DependentUpon>ObjectType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentMethodForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentMethodForm.Designer.cs">
+      <DependentUpon>PaymentMethodForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentMethodList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentMethodList.Designer.cs">
+      <DependentUpon>PaymentMethodList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeCharge.cs">
+      <DependentUpon>EmployeeCharge.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="EndingInventoryReport.cs">
+      <DependentUpon>EndingInventoryReport.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="PaymentMethodReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PaymentMethodReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PendingOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PendingOrder.Designer.cs">
+      <DependentUpon>PendingOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PendingOrder2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PendingOrder2.Designer.cs">
+      <DependentUpon>PendingOrder2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forSAPAR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forSAPAR.Designer.cs">
+      <DependentUpon>forSAPAR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="POS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="POS.Designer.cs">
+      <DependentUpon>POS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="POS_ItemInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="POS_ItemInfo.Designer.cs">
+      <DependentUpon>POS_ItemInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PriceList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PriceList.Designer.cs">
+      <DependentUpon>PriceList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PriceList_Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PriceList_Items.Designer.cs">
+      <DependentUpon>PriceList_Items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PriceList_Row.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PriceList_Row.Designer.cs">
+      <DependentUpon>PriceList_Row.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Production.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Production.Designer.cs">
+      <DependentUpon>Production.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Production_IssueProduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Production_IssueProduction.Designer.cs">
+      <DependentUpon>Production_IssueProduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Production_IssueProduction_Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Production_IssueProduction_Items.Designer.cs">
+      <DependentUpon>Production_IssueProduction_Items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Production_ProductionOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Production_ProductionOrder.Designer.cs">
+      <DependentUpon>Production_ProductionOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Production_ProductionOrder_Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Production_ProductionOrder_Items.Designer.cs">
+      <DependentUpon>Production_ProductionOrder_Items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Production_ReceivedProduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Production_ReceivedProduction.Designer.cs">
+      <DependentUpon>Production_ReceivedProduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Production_ReceivedProduction_Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Production_ReceivedProduction_Items.Designer.cs">
+      <DependentUpon>Production_ReceivedProduction_Items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PullOut.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PullOut.Designer.cs">
+      <DependentUpon>PullOut.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Read_URL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Read_URL.Designer.cs">
+      <DependentUpon>Read_URL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReceiptFromProduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceiptFromProduction.Designer.cs">
+      <DependentUpon>ReceiptFromProduction.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Remarks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Remarks.Designer.cs">
+      <DependentUpon>Remarks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashTransactionReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashTransactionReport.Designer.cs">
+      <DependentUpon>CashTransactionReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemarksDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemarksDetails.Designer.cs">
+      <DependentUpon>RemarksDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportsDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportsDialog.Designer.cs">
+      <DependentUpon>reportsDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesPerCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesPerCustomer.Designer.cs">
+      <DependentUpon>SalesPerCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesPerCustomer_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesPerCustomer_Details.Designer.cs">
+      <DependentUpon>SalesPerCustomer_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesPerCustomer_PaidDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesPerCustomer_PaidDetails.Designer.cs">
+      <DependentUpon>SalesPerCustomer_PaidDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesReportItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesReportItems.Designer.cs">
+      <DependentUpon>SalesReportItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesReport.Designer.cs">
+      <DependentUpon>SalesReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesTransactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesTransactions.Designer.cs">
+      <DependentUpon>SalesTransactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesTransactions_Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesTransactions_Items.Designer.cs">
+      <DependentUpon>SalesTransactions_Items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SAPNumber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SAPNumber.Designer.cs">
+      <DependentUpon>SAPNumber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SAPWarehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SAPWarehouse.Designer.cs">
+      <DependentUpon>SAPWarehouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SAP_Remarks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SAP_Remarks.Designer.cs">
+      <DependentUpon>SAP_Remarks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SAP_RemarksDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SAP_RemarksDate.Designer.cs">
+      <DependentUpon>SAP_RemarksDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectAdvancePayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectAdvancePayment.Designer.cs">
+      <DependentUpon>SelectAdvancePayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectedItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectedItem.Designer.cs">
+      <DependentUpon>SelectedItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Series.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Series.Designer.cs">
+      <DependentUpon>Series.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignalRRR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignalRRR.Designer.cs">
+      <DependentUpon>SignalRRR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ForSOA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForSOA.Designer.cs">
+      <DependentUpon>ForSOA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SOA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SOA.Designer.cs">
+      <DependentUpon>SOA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SOA_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SOA_Details.Designer.cs">
+      <DependentUpon>SOA_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SummaryDeposit_Details.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SummaryDeposit_Details.Designer.cs">
+      <DependentUpon>SummaryDeposit_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transfer.Designer.cs">
+      <DependentUpon>Transfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transfer2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transfer2.Designer.cs">
+      <DependentUpon>Transfer2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TransferItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransferItems.Designer.cs">
+      <DependentUpon>TransferItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI Class\api_class.cs" />
+    <Compile Include="UI Class\devexpress_class.cs" />
+    <Compile Include="UI Class\EAN13Class.cs" />
+    <Compile Include="UI Class\ui_class.cs" />
+    <Compile Include="UI Class\utility_class.cs" />
+    <Compile Include="UOM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UOM.Designer.cs">
+      <DependentUpon>UOM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UOMGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UOMGroup.Designer.cs">
+      <DependentUpon>UOMGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users.Designer.cs">
+      <DependentUpon>Users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users_DX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users_DX.Designer.cs">
+      <DependentUpon>Users_DX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewReceive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewReceive.Designer.cs">
+      <DependentUpon>ViewReceive.cs</DependentUpon>
+    </Compile>
+    <Compile Include="voidForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="voidForm.Designer.cs">
+      <DependentUpon>voidForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Warehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Warehouse.Designer.cs">
+      <DependentUpon>Warehouse.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddActualCash.resx">
+      <DependentUpon>AddActualCash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAdjustmentIn.resx">
+      <DependentUpon>AddAdjustmentIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAdvancePayment.resx">
+      <DependentUpon>AddAdvancePayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddAltUOM.resx">
+      <DependentUpon>AddAltUOM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddBranch.resx">
+      <DependentUpon>AddBranch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCustomer.resx">
+      <DependentUpon>AddCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCustomer_Details.resx">
+      <DependentUpon>AddCustomer_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddGLAccount.resx">
+      <DependentUpon>AddGLAccount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddItem.resx">
+      <DependentUpon>AddItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddObjectType.resx">
+      <DependentUpon>AddObjectType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddPriceList.resx">
+      <DependentUpon>AddPriceList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddSeries.resx">
+      <DependentUpon>AddSeries.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddUOM.resx">
+      <DependentUpon>AddUOM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddUOMGroup.resx">
+      <DependentUpon>AddUOMGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddUser.resx">
+      <DependentUpon>AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddWarehouse.resx">
+      <DependentUpon>AddWarehouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdjustmentIn.resx">
+      <DependentUpon>AdjustmentIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdjustmentIn2.resx">
+      <DependentUpon>AdjustmentIn2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdjustmentIn_Details.resx">
+      <DependentUpon>AdjustmentIn_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvancePayment.resx">
+      <DependentUpon>AdvancePayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdvancePayment2.resx">
+      <DependentUpon>AdvancePayment2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AltUOM.resx">
+      <DependentUpon>AltUOM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AmountRemaks.resx">
+      <DependentUpon>AmountRemaks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="APIIIIIIII.resx">
+      <DependentUpon>APIIIIIIII.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="asyncccccccccc.resx">
+      <DependentUpon>asyncccccccccc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barcodee.resx">
+      <DependentUpon>Barcodee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Branches.resx">
+      <DependentUpon>Branches.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Branches2.resx">
+      <DependentUpon>Branches2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashTransactionReportDetails.resx">
+      <DependentUpon>CashTransactionReportDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashTransactionReportItems.resx">
+      <DependentUpon>CashTransactionReportItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashVariance.resx">
+      <DependentUpon>CashVariance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashVariance2.resx">
+      <DependentUpon>CashVariance2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="countReports.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>countReports.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crDialog.resx">
+      <DependentUpon>crDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crPrintCustomerLedgerDetails.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crPrintCustomerLedgerDetails.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crPrintTransfer.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crPrintTransfer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crPrintTransferReceiveCopy.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crPrintTransferReceiveCopy.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerLedger_CR.resx">
+      <DependentUpon>CustomerLedger_CR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customers.resx">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerSalesReport.fil-PH.resx">
+      <DependentUpon>CustomerSalesReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="customMessageBox.resx">
+      <DependentUpon>customMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editCustomer.resx">
+      <DependentUpon>editCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditWarehouse.resx">
+      <DependentUpon>EditWarehouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InventoryDetails.resx">
+      <DependentUpon>InventoryDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerSalesReport.resx">
+      <DependentUpon>CustomerSalesReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PendingOrder_SAPAR.resx">
+      <DependentUpon>PendingOrder_SAPAR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="printCustomerLedgerDetails.resx">
+      <DependentUpon>printCustomerLedgerDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="printTransfer.resx">
+      <DependentUpon>printTransfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crPrintTransferOriginalCopy.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crPrintTransferOriginalCopy.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="print_toPay.resx">
+      <DependentUpon>print_toPay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Sales.resx">
+      <DependentUpon>Sales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salesAmountSummaryReport.resx">
+      <DependentUpon>salesAmountSummaryReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salesAmountSummaryReport_customer.resx">
+      <DependentUpon>salesAmountSummaryReport_customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesReturn.resx">
+      <DependentUpon>SalesReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesReturn_Details.resx">
+      <DependentUpon>SalesReturn_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesReturn_Form.resx">
+      <DependentUpon>SalesReturn_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesTab.resx">
+      <DependentUpon>SalesTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SAPARDone.resx">
+      <DependentUpon>SAPARDone.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SAPARDoneDetails.resx">
+      <DependentUpon>SAPARDoneDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SASR0.resx">
+      <DependentUpon>SASR0.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SASR1.resx">
+      <DependentUpon>SASR1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SASR2.resx">
+      <DependentUpon>SASR2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectBranch.resx">
+      <DependentUpon>SelectBranch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Select_SalesReturn.resx">
+      <DependentUpon>Select_SalesReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SOATab.resx">
+      <DependentUpon>SOATab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToPayPrint.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ToPayPrint.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditAdvancePayment.resx">
+      <DependentUpon>EditAdvancePayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditBranch.resx">
+      <DependentUpon>EditBranch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditUOMGroup.resx">
+      <DependentUpon>EditUOMGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DiscountType.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>DiscountType.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Items_DX.resx">
+      <DependentUpon>Items_DX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotificationTab.resx">
+      <DependentUpon>NotificationTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="printSOA.resx">
+      <DependentUpon>printSOA.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Dataset\dsToPay.xsc">
+      <DependentUpon>dsToPay.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsToPay.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsToPay.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Dataset\dsToPay.xss">
+      <DependentUpon>dsToPay.xsd</DependentUpon>
+    </None>
+    <EmbeddedResource Include="SOA_crystalReports_receiving.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SOA_crystalReports_receiving.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SOA_crystalReports_original.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SOA_crystalReports_original.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SOA_crystalReports.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SOA_crystalReports.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterAmount.resx">
+      <DependentUpon>EnterAmount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterBranch.resx">
+      <DependentUpon>EnterBranch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterDate.resx">
+      <DependentUpon>EnterDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerLedgerDetailsReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CustomerLedgerDetailsReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="finalReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>finalReport1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="finalSales.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>finalSales.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FinalReport_SubQuery1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>FinalReport_SubQuery1.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forSAPAR_Items.resx">
+      <DependentUpon>forSAPAR_Items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forSAPAR_SAPNumber.resx">
+      <DependentUpon>forSAPAR_SAPNumber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forSAPIP.resx">
+      <DependentUpon>forSAPIP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forSAPIP2.resx">
+      <DependentUpon>forSAPIP2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forSAPIP2_Items.resx">
+      <DependentUpon>forSAPIP2_Items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GLAccountDetails.resx">
+      <DependentUpon>GLAccountDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GLAccounts.resx">
+      <DependentUpon>GLAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory.resx">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IPRemarks.resx">
+      <DependentUpon>IPRemarks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="isIssuedProdOrderItems.resx">
+      <DependentUpon>isIssuedProdOrderItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IssueForProduction.resx">
+      <DependentUpon>IssueForProduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemDeposit.resx">
+      <DependentUpon>ItemDeposit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemDiscount.resx">
+      <DependentUpon>ItemDiscount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemInfo.resx">
+      <DependentUpon>ItemInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemRequest.resx">
+      <DependentUpon>ItemRequest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemRequest2.resx">
+      <DependentUpon>ItemRequest2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemRequest_ForProduction.resx">
+      <DependentUpon>ItemRequest_ForProduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemRequest_Items.resx">
+      <DependentUpon>ItemRequest_Items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Items.resx">
+      <DependentUpon>Items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemSalesReport.resx">
+      <DependentUpon>ItemSalesReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItemSalesReport_Details.resx">
+      <DependentUpon>ItemSalesReport_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="linkPassword.resx">
+      <DependentUpon>linkPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notification.resx">
+      <DependentUpon>Notification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Notification2.resx">
+      <DependentUpon>Notification2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotificationBar.resx">
+      <DependentUpon>NotificationBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectType.resx">
+      <DependentUpon>ObjectType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentMethodForm.resx">
+      <DependentUpon>PaymentMethodForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentMethodList.resx">
+      <DependentUpon>PaymentMethodList.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Dataset\dsBranches.xsc">
+      <DependentUpon>dsBranches.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsBranches.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsBranches.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Dataset\dsBranches.xss">
+      <DependentUpon>dsBranches.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsCustomerLedgerDetails.xsc">
+      <DependentUpon>dsCustomerLedgerDetails.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsCustomerLedgerDetails.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsCustomerLedgerDetails.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Dataset\dsCustomerLedgerDetails.xss">
+      <DependentUpon>dsCustomerLedgerDetails.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsDiscountTypeSummary.xsc">
+      <DependentUpon>dsDiscountTypeSummary.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsDiscountTypeSummary.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsDiscountTypeSummary.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Dataset\dsDiscountTypeSummary.xss">
+      <DependentUpon>dsDiscountTypeSummary.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsEmployeeCharge.xsc">
+      <DependentUpon>dsEmployeeCharge.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsEmployeeCharge.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsEmployeeCharge.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Dataset\dsEmployeeCharge.xss">
+      <DependentUpon>dsEmployeeCharge.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsFinalReport_SubQuery1.xsc">
+      <DependentUpon>dsFinalReport_SubQuery1.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsFinalReport_SubQuery1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsFinalReport_SubQuery1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Dataset\dsFinalReport_SubQuery1.xss">
+      <DependentUpon>dsFinalReport_SubQuery1.xsd</DependentUpon>
+    </None>
+    <EmbeddedResource Include="EmployeeCharge.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EmployeeCharge.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EndingInventoryReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>EndingInventoryReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentMethodReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PaymentMethodReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PendingOrder.resx">
+      <DependentUpon>PendingOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PendingOrder2.resx">
+      <DependentUpon>PendingOrder2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forSAPAR.resx">
+      <DependentUpon>forSAPAR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="POS.resx">
+      <DependentUpon>POS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="POS_ItemInfo.resx">
+      <DependentUpon>POS_ItemInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PriceList.resx">
+      <DependentUpon>PriceList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PriceList_Items.resx">
+      <DependentUpon>PriceList_Items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PriceList_Row.resx">
+      <DependentUpon>PriceList_Row.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Production.resx">
+      <DependentUpon>Production.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Production_IssueProduction.resx">
+      <DependentUpon>Production_IssueProduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Production_IssueProduction_Items.resx">
+      <DependentUpon>Production_IssueProduction_Items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Production_ProductionOrder.resx">
+      <DependentUpon>Production_ProductionOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Production_ProductionOrder_Items.resx">
+      <DependentUpon>Production_ProductionOrder_Items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Production_ReceivedProduction.resx">
+      <DependentUpon>Production_ReceivedProduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Production_ReceivedProduction_Items.resx">
+      <DependentUpon>Production_ReceivedProduction_Items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="PullOut.resx">
+      <DependentUpon>PullOut.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Read_URL.resx">
+      <DependentUpon>Read_URL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReceiptFromProduction.resx">
+      <DependentUpon>ReceiptFromProduction.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Remarks.resx">
+      <DependentUpon>Remarks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashTransactionReport.resx">
+      <DependentUpon>CashTransactionReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemarksDetails.resx">
+      <DependentUpon>RemarksDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportsDialog.resx">
+      <DependentUpon>reportsDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesPerCustomer.resx">
+      <DependentUpon>SalesPerCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesPerCustomer_Details.resx">
+      <DependentUpon>SalesPerCustomer_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesPerCustomer_PaidDetails.resx">
+      <DependentUpon>SalesPerCustomer_PaidDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesReportItems.resx">
+      <DependentUpon>SalesReportItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesReport.resx">
+      <DependentUpon>SalesReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesTransactions.resx">
+      <DependentUpon>SalesTransactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesTransactions_Items.resx">
+      <DependentUpon>SalesTransactions_Items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SAPNumber.resx">
+      <DependentUpon>SAPNumber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SAPWarehouse.resx">
+      <DependentUpon>SAPWarehouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SAP_Remarks.resx">
+      <DependentUpon>SAP_Remarks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SAP_RemarksDate.resx">
+      <DependentUpon>SAP_RemarksDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectAdvancePayment.resx">
+      <DependentUpon>SelectAdvancePayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectedItem.resx">
+      <DependentUpon>SelectedItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Series.resx">
+      <DependentUpon>Series.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignalRRR.resx">
+      <DependentUpon>SignalRRR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForSOA.resx">
+      <DependentUpon>ForSOA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SOA.resx">
+      <DependentUpon>SOA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SOA_Details.resx">
+      <DependentUpon>SOA_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SummaryDeposit_Details.resx">
+      <DependentUpon>SummaryDeposit_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transfer.resx">
+      <DependentUpon>Transfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transfer2.resx">
+      <DependentUpon>Transfer2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransferItems.resx">
+      <DependentUpon>TransferItems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UOM.resx">
+      <DependentUpon>UOM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UOMGroup.resx">
+      <DependentUpon>UOMGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users.resx">
+      <DependentUpon>Users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users_DX.resx">
+      <DependentUpon>Users_DX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewReceive.resx">
+      <DependentUpon>ViewReceive.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="voidForm.resx">
+      <DependentUpon>voidForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Warehouse.resx">
+      <DependentUpon>Warehouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Dataset\dsFinal.xsc">
+      <DependentUpon>dsFinal.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsFinal.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsFinal.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Dataset\dsFinal.xss">
+      <DependentUpon>dsFinal.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsFinalSales.xsc">
+      <DependentUpon>dsFinalSales.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsFinalSales.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsFinalSales.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Dataset\dsFinalSales.xss">
+      <DependentUpon>dsFinalSales.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsPullOut.xsc">
+      <DependentUpon>dsPullOut.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsPullOut.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsPullOut.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Dataset\dsPullOut.xss">
+      <DependentUpon>dsPullOut.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsSOA.xsc">
+      <DependentUpon>dsSOA.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsSOA.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsSOA.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Dataset\dsSOA.xss">
+      <DependentUpon>dsSOA.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsTransfer.xsc">
+      <DependentUpon>dsTransfer.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\dsTransfer.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsTransfer.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Dataset\dsTransfer.xss">
+      <DependentUpon>dsTransfer.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\PaymentMethod.xsc">
+      <DependentUpon>PaymentMethod.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\PaymentMethod.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PaymentMethod.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Dataset\PaymentMethod.xss">
+      <DependentUpon>PaymentMethod.xsd</DependentUpon>
+    </None>
+    <None Include="dbOfflineDataSet.xsc">
+      <DependentUpon>dbOfflineDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="dbOfflineDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbOfflineDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbOfflineDataSet.xss">
+      <DependentUpon>dbOfflineDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="abc logo.ico" />
+    <Content Include="dbOffline.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="dbOffline_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>dbOffline.mdf</DependentUpon>
+    </Content>
+    <Content Include="delicious.ico" />
+    <None Include="Resources\delicious.ico" />
+    <None Include="Resources\loading.gif" />
+    <None Include="Resources\2.png" />
+    <None Include="Resources\1.png" />
+    <None Include="Resources\delicious.png" />
+    <None Include="Resources\TSHIRT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

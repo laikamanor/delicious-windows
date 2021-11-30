@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="PaymentMethod" targetNamespace="http://tempuri.org/PaymentMethod.xsd" xmlns:mstns="http://tempuri.org/PaymentMethod.xsd" xmlns="http://tempuri.org/PaymentMethod.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="PaymentMethod" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="PaymentMethod" msprop:Generator_UserDSName="PaymentMethod">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="payment_method" msprop:Generator_TableClassName="payment_methodDataTable" msprop:Generator_TableVarName="tablepayment_method" msprop:Generator_RowChangedName="payment_methodRowChanged" msprop:Generator_TablePropName="payment_method" msprop:Generator_RowDeletingName="payment_methodRowDeleting" msprop:Generator_RowChangingName="payment_methodRowChanging" msprop:Generator_RowEvHandlerName="payment_methodRowChangeEventHandler" msprop:Generator_RowDeletedName="payment_methodRowDeleted" msprop:Generator_RowClassName="payment_methodRow" msprop:Generator_UserTableName="payment_method" msprop:Generator_RowEvArgName="payment_methodRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="transtype" msprop:Generator_ColumnVarNameInTable="columntranstype" msprop:Generator_ColumnPropNameInRow="transtype" msprop:Generator_ColumnPropNameInTable="transtypeColumn" msprop:Generator_UserColumnName="transtype" type="xs:string" minOccurs="0" />
+              <xs:element name="cash_sales" msprop:Generator_ColumnVarNameInTable="columncash_sales" msprop:Generator_ColumnPropNameInRow="cash_sales" msprop:Generator_ColumnPropNameInTable="cash_salesColumn" msprop:Generator_UserColumnName="cash_sales" type="xs:double" minOccurs="0" />
+              <xs:element name="ar_sales" msprop:Generator_ColumnVarNameInTable="columnar_sales" msprop:Generator_ColumnPropNameInRow="ar_sales" msprop:Generator_ColumnPropNameInTable="ar_salesColumn" msprop:Generator_UserColumnName="ar_sales" type="xs:double" minOccurs="0" />
+              <xs:element name="agent_sales" msprop:Generator_ColumnVarNameInTable="columnagent_sales" msprop:Generator_ColumnPropNameInRow="agent_sales" msprop:Generator_ColumnPropNameInTable="agent_salesColumn" msprop:Generator_UserColumnName="agent_sales" type="xs:double" minOccurs="0" />
+              <xs:element name="total" msprop:Generator_ColumnVarNameInTable="columntotal" msprop:Generator_ColumnPropNameInRow="total" msprop:Generator_ColumnPropNameInTable="totalColumn" msprop:Generator_UserColumnName="total" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

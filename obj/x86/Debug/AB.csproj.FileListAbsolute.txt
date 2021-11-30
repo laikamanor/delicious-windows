@@ -1,0 +1,1421 @@
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\AB.exe.config
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\AB.exe
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\AB.pdb
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\ExcelNumberFormat.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\FastMember.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\FlashControlV71.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Http.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\RestSharp.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\System.Buffers.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\System.Memory.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\System.Net.Http.Formatting.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\ShockwaveFlashObjects.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\stdole.dll
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\ExcelNumberFormat.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Http.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\RestSharp.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\System.Buffers.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\System.Memory.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\System.Net.Http.Formatting.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.AddAdjustmentIn.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.AddAdvancePayment.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.AddBranch.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.AddCustomer.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.AddObjectType.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.AddUser.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.AddWarehouse.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.AdjustmentIn.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.AdjustmentIn_Details.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.AdvancePayment.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.AdvancePayment2.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.Branches.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.CashTransactionReportItems.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.crDialog.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.Customers.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.EditAdvancePayment.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.EditBranch.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.EnterDate.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.Form1.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.forSAPAR_Items.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.forSAPAR_SAPNumber.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.forSAPIP.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.forSAPIP2.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.forSAPIP2_Items.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.Inventory.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.ItemDiscount.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.ItemInfo.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.ItemRequest.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.ItemRequest2.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.ItemRequest_Items.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.Login.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.MainMenu.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.ObjectType.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.PaymentMethodForm.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.PaymentMethodList.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.PendingOrder.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.PendingOrder2.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.forSAPAR.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.Properties.Resources.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.PullOut.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.Remarks.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.CashTransactionReport.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.reportsDialog.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.SalesReportItems.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.SalesReport.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.SalesTransactions.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.SalesTransactions_Items.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.SAPNumber.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.SAPWarehouse.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.SAP_Remarks.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.SelectAdvancePayment.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.SelectedItem.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.SummaryDeposit_Details.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.Transfer.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.Transfer2.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.TransferItems.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.Users.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.voidForm.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.Warehouse.resources
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.csproj.GenerateResource.cache
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.csproj.CopyComplete
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.exe
+C:\Users\Dell1\Documents\Visual Studio 2019\Projects\AB\obj\x86\Debug\AB.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\dbOffline.mdf
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\dbOffline_log.ldf
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\AB.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\AB.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\AB.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\FlashControlV71.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Http.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Options.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\RestSharp.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Buffers.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.IO.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.IO.Pipelines.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Memory.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Net.Http.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Net.Http.Formatting.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Runtime.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Text.Json.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Threading.Channels.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.ValueTuple.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Tulpep.NotificationWindow.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ShockwaveFlashObjects.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\stdole.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Http.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Options.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\RestSharp.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Buffers.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.IO.Pipelines.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Memory.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Net.Http.Formatting.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Text.Encodings.Web.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Text.Json.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Threading.Channels.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\System.ValueTuple.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AddActualCash.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AddAdjustmentIn.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AddAdvancePayment.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AddAltUOM.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AddBranch.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AddCustomer.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AddCustomer_Details.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AddGLAccount.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AddItem.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AddObjectType.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AddPriceList.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AddSeries.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AddUOM.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AddUOMGroup.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AddUser.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AddWarehouse.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AdjustmentIn.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AdjustmentIn2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AdjustmentIn_Details.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AdvancePayment.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AdvancePayment2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AltUOM.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.AmountRemaks.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.APIIIIIIII.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Barcodee.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Branches.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.CashTransactionReportItems.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.CashVariance.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.CashVariance2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.crDialog.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.CustomerLedger_CR.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Customers.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.EditAdvancePayment.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.EditBranch.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.EditUOMGroup.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.EnterAmount.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.EnterBranch.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.EnterDate.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.forSAPAR_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.forSAPAR_SAPNumber.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.forSAPIP.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.forSAPIP2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.forSAPIP2_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.GLAccountDetails.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.GLAccounts.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Inventory.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.IPRemarks.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.isIssuedProdOrderItems.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.IssueForProduction.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.ItemDeposit.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.ItemDiscount.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.ItemInfo.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.ItemRequest.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.ItemRequest2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.ItemRequest_ForProduction.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.ItemRequest_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.ItemSalesReport.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.ItemSalesReport_Details.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.linkPassword.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Login.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.MainMenu.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Notification.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Notification2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.NotificationBar.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.ObjectType.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.PaymentMethodForm.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.PaymentMethodList.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.PendingOrder.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.PendingOrder2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.forSAPAR.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.POS.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.POS_ItemInfo.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.PriceList.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.PriceList_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.PriceList_Row.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Production.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Production_IssueProduction.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Production_IssueProduction_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Production_ProductionOrder.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Production_ProductionOrder_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Production_ReceivedProduction.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Production_ReceivedProduction_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.PullOut.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Read_URL.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.ReceiptFromProduction.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Remarks.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.CashTransactionReport.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.RemarksDetails.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.reportsDialog.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.SalesPerCustomer.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.SalesPerCustomer_Details.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.SalesPerCustomer_PaidDetails.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.SalesReportItems.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.SalesReport.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.SalesTransactions.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.SalesTransactions_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.SAPNumber.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.SAPWarehouse.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.SAP_Remarks.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.SAP_RemarksDate.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.SelectAdvancePayment.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.SelectedItem.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Series.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.SignalRRR.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.SummaryDeposit_Details.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Transfer.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Transfer2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.TransferItems.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.UOM.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.UOMGroup.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Users.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.voidForm.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Warehouse.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.asyncccccccccc.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Form2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.ForSOA.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.SOA.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.printSOA.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.SOA_Details.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.NotificationTab.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.Data.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.Images.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.Data.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\bin\x86\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Branches2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Items_DX.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB\obj\x86\Debug\AB.Users_DX.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\AB.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\dbOffline.mdf
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\dbOffline_log.ldf
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\AB.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\AB.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.Data.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\FlashControlV71.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.Http.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.Options.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\RestSharp.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Buffers.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.IO.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.IO.Pipelines.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Memory.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Net.Http.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Net.Http.Formatting.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Runtime.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Text.Json.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Threading.Channels.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.ValueTuple.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Tulpep.NotificationWindow.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ShockwaveFlashObjects.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\stdole.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.Images.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.Data.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.Http.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.Options.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\RestSharp.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Buffers.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.IO.Pipelines.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Memory.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Net.Http.Formatting.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Text.Encodings.Web.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Text.Json.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Threading.Channels.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\System.ValueTuple.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\bin\x86\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AddActualCash.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AddAdjustmentIn.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AddAdvancePayment.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AddAltUOM.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AddBranch.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AddCustomer.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AddCustomer_Details.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AddGLAccount.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AddItem.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AddObjectType.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AddPriceList.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AddSeries.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AddUOM.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AddUOMGroup.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AddUser.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AddWarehouse.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AdjustmentIn.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AdjustmentIn2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AdjustmentIn_Details.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AdvancePayment.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AdvancePayment2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AltUOM.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.AmountRemaks.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.APIIIIIIII.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.asyncccccccccc.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Barcodee.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Branches.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Branches2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.CashTransactionReportItems.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.CashVariance.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.CashVariance2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.crDialog.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.CustomerLedger_CR.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Customers.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.EditAdvancePayment.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.EditBranch.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.EditUOMGroup.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Items_DX.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.NotificationTab.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.printSOA.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.EnterAmount.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.EnterBranch.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.EnterDate.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Form2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.forSAPAR_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.forSAPAR_SAPNumber.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.forSAPIP.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.forSAPIP2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.forSAPIP2_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.GLAccountDetails.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.GLAccounts.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Inventory.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.IPRemarks.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.isIssuedProdOrderItems.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.IssueForProduction.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.ItemDeposit.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.ItemDiscount.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.ItemInfo.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.ItemRequest.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.ItemRequest2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.ItemRequest_ForProduction.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.ItemRequest_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.ItemSalesReport.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.ItemSalesReport_Details.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.linkPassword.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Login.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.MainMenu.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Notification.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Notification2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.NotificationBar.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.ObjectType.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.PaymentMethodForm.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.PaymentMethodList.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.PendingOrder.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.PendingOrder2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.forSAPAR.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.POS.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.POS_ItemInfo.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.PriceList.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.PriceList_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.PriceList_Row.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Production.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Production_IssueProduction.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Production_IssueProduction_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Production_ProductionOrder.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Production_ProductionOrder_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Production_ReceivedProduction.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Production_ReceivedProduction_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.PullOut.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Read_URL.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.ReceiptFromProduction.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Remarks.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.CashTransactionReport.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.RemarksDetails.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.reportsDialog.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.SalesPerCustomer.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.SalesPerCustomer_Details.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.SalesPerCustomer_PaidDetails.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.SalesReportItems.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.SalesReport.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.SalesTransactions.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.SalesTransactions_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.SAPNumber.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.SAPWarehouse.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.SAP_Remarks.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.SAP_RemarksDate.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.SelectAdvancePayment.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.SelectedItem.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Series.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.SignalRRR.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.ForSOA.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.SOA.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.SOA_Details.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.SummaryDeposit_Details.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Transfer.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Transfer2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.TransferItems.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.UOM.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.UOMGroup.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Users.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Users_DX.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.voidForm.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.Warehouse.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\AB v1_20_5\AB\obj\x86\Debug\AB.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\dbOffline.mdf
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\dbOffline_log.ldf
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\AB.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\AB.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\AB.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Data.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\FlashControlV71.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Http.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Options.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\RestSharp.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Buffers.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.ComponentModel.Annotations.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.IO.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.IO.Pipelines.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Memory.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Net.Http.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Net.Http.Formatting.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Net.Sockets.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Runtime.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Text.Json.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Threading.Channels.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.ValueTuple.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Tulpep.NotificationWindow.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ShockwaveFlashObjects.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\stdole.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Images.v18.2.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Data.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Http.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Options.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\RestSharp.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Buffers.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.IO.Pipelines.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Memory.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Net.Http.Formatting.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Text.Encodings.Web.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Text.Json.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Threading.Channels.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\System.ValueTuple.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddActualCash.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddAdjustmentIn.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddAdvancePayment.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddAltUOM.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddBranch.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddCustomer.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddCustomer_Details.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddGLAccount.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddItem.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddObjectType.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddPriceList.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddSeries.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddUOM.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddUOMGroup.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddUser.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddWarehouse.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AdjustmentIn.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AdjustmentIn2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AdjustmentIn_Details.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AdvancePayment.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AdvancePayment2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AltUOM.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.AmountRemaks.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.APIIIIIIII.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.asyncccccccccc.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Barcodee.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Branches.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Branches2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.CashTransactionReportItems.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.CashVariance.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.CashVariance2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.crDialog.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.CustomerLedger_CR.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Customers.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.print_toPay.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.salesAmountSummaryReport.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.salesAmountSummaryReport_customer.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SASR0.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SASR1.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SASR2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SelectBranch.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.EditAdvancePayment.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.EditBranch.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.EditUOMGroup.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Items_DX.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.NotificationTab.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.printSOA.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.EnterAmount.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.EnterBranch.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.EnterDate.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Form2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.forSAPAR_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.forSAPAR_SAPNumber.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.forSAPIP.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.forSAPIP2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.forSAPIP2_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.GLAccountDetails.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.GLAccounts.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Inventory.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.IPRemarks.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.isIssuedProdOrderItems.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.IssueForProduction.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.ItemDeposit.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.ItemDiscount.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.ItemInfo.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.ItemRequest.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.ItemRequest2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.ItemRequest_ForProduction.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.ItemRequest_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.ItemSalesReport.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.ItemSalesReport_Details.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.linkPassword.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Login.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.MainMenu.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Notification.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Notification2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.NotificationBar.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.ObjectType.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.PaymentMethodForm.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.PaymentMethodList.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.PendingOrder.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.PendingOrder2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.forSAPAR.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.POS.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.POS_ItemInfo.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.PriceList.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.PriceList_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.PriceList_Row.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Production.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Production_IssueProduction.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Production_IssueProduction_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Production_ProductionOrder.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Production_ProductionOrder_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Production_ReceivedProduction.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Production_ReceivedProduction_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.PullOut.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Read_URL.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.ReceiptFromProduction.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Remarks.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.CashTransactionReport.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.RemarksDetails.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.reportsDialog.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SalesPerCustomer.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SalesPerCustomer_Details.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SalesPerCustomer_PaidDetails.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SalesReportItems.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SalesReport.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SalesTransactions.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SalesTransactions_Items.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SAPNumber.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SAPWarehouse.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SAP_Remarks.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SAP_RemarksDate.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SelectAdvancePayment.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SelectedItem.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Series.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SignalRRR.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.ForSOA.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SOA.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SOA_Details.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.SummaryDeposit_Details.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Transfer.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Transfer2.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.TransferItems.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.UOM.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.UOMGroup.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Users.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Users_DX.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.voidForm.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Warehouse.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.ViewReceive.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.printTransfer.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.Loading.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.InventoryDetails.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.EditWarehouse.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.CashTransactionReportDetails.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Delicious Partner App\AB\obj\x86\Debug\AB.csprojResolveAssemblyReference.cache
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\dbOffline.mdf
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\dbOffline_log.ldf
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\AB.exe.config
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\AB.exe
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\AB.pdb
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\fil-PH\AB.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.Shared.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Data.v18.2.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Printing.v18.2.Core.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Utils.v18.2.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraBars.v18.2.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraEditors.v18.2.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraGrid.v18.2.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraLayout.v18.2.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraPrinting.v18.2.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\FlashControlV71.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Features.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Http.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Logging.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Options.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Primitives.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Newtonsoft.Json.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\RestSharp.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Buffers.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.ComponentModel.Annotations.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.IO.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.IO.Pipelines.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Memory.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Net.Http.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Net.Http.Formatting.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Net.Sockets.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Runtime.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Text.Encodings.Web.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Text.Json.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Threading.Channels.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.ValueTuple.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Tulpep.NotificationWindow.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Pdf.v18.2.Core.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Sparkline.v18.2.Core.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.RichEdit.v18.2.Core.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraTreeList.v18.2.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ShockwaveFlashObjects.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\stdole.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Office.v18.2.Core.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Images.v18.2.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Data.v18.2.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Printing.v18.2.Core.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Utils.v18.2.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraBars.v18.2.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraEditors.v18.2.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraGrid.v18.2.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraLayout.v18.2.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraPrinting.v18.2.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Http.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Logging.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Options.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Microsoft.Extensions.Primitives.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\Newtonsoft.Json.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\RestSharp.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Buffers.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.IO.Pipelines.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Memory.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Net.Http.Formatting.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Numerics.Vectors.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Text.Encodings.Web.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Text.Json.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Threading.Channels.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.Threading.Tasks.Extensions.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\System.ValueTuple.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Pdf.v18.2.Core.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Sparkline.v18.2.Core.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.RichEdit.v18.2.Core.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraTreeList.v18.2.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Office.v18.2.Core.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.Data.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.Data.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.Data.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.Data.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.Utils.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.Utils.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddActualCash.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddAdjustmentIn.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddAdvancePayment.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddAltUOM.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddBranch.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddCustomer.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddCustomer_Details.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddGLAccount.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddItem.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddObjectType.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddPriceList.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddSeries.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddUOM.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddUOMGroup.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddUser.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AddWarehouse.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AdjustmentIn.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AdjustmentIn2.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AdjustmentIn_Details.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AdvancePayment.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AdvancePayment2.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AltUOM.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.AmountRemaks.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.APIIIIIIII.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.asyncccccccccc.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Barcodee.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Branches.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Branches2.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.CashTransactionReportDetails.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.CashTransactionReportItems.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.CashVariance.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.CashVariance2.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.crDialog.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.CustomerLedger_CR.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Customers.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.customMessageBox.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.editCustomer.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.EditWarehouse.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.InventoryDetails.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.CustomerSalesReport.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.printCustomerLedgerDetails.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.printTransfer.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Loading.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.print_toPay.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.salesAmountSummaryReport.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.salesAmountSummaryReport_customer.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SASR0.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SASR1.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SASR2.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SelectBranch.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.EditAdvancePayment.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.EditBranch.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.EditUOMGroup.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Items_DX.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.NotificationTab.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.printSOA.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.EnterAmount.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.EnterBranch.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.EnterDate.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Form1.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Form2.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.forSAPAR_Items.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.forSAPAR_SAPNumber.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.forSAPIP.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.forSAPIP2.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.forSAPIP2_Items.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.GLAccountDetails.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.GLAccounts.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Inventory.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.IPRemarks.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.isIssuedProdOrderItems.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.IssueForProduction.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.ItemDeposit.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.ItemDiscount.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.ItemInfo.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.ItemRequest.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.ItemRequest2.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.ItemRequest_ForProduction.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.ItemRequest_Items.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Items.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.ItemSalesReport.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.ItemSalesReport_Details.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.linkPassword.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Login.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.MainMenu.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Notification.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Notification2.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.NotificationBar.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.ObjectType.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.PaymentMethodForm.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.PaymentMethodList.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.PendingOrder.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.PendingOrder2.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.forSAPAR.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.POS.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.POS_ItemInfo.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.PriceList.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.PriceList_Items.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.PriceList_Row.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Production.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Production_IssueProduction.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Production_IssueProduction_Items.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Production_ProductionOrder.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Production_ProductionOrder_Items.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Production_ReceivedProduction.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Production_ReceivedProduction_Items.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Properties.Resources.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.PullOut.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Read_URL.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.ReceiptFromProduction.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Remarks.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.CashTransactionReport.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.RemarksDetails.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.reportsDialog.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SalesPerCustomer.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SalesPerCustomer_Details.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SalesPerCustomer_PaidDetails.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SalesReportItems.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SalesReport.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SalesTransactions.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SalesTransactions_Items.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SAPNumber.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SAPWarehouse.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SAP_Remarks.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SAP_RemarksDate.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SelectAdvancePayment.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SelectedItem.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Series.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SignalRRR.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.ForSOA.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SOA.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SOA_Details.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SummaryDeposit_Details.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Transfer.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Transfer2.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.TransferItems.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.UOM.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.UOMGroup.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Users.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Users_DX.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.ViewReceive.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.voidForm.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Warehouse.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.CustomerSalesReport.fil-PH.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.csproj.GenerateResource.Cache
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\fil-PH\AB.resources.dll
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.exe
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.pdb
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Map.v18.2.Core.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraMap.v18.2.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.Map.v18.2.Core.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DevExpress.XtraMap.v18.2.xml
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\de\DevExpress.Map.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\es\DevExpress.Map.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ja\DevExpress.Map.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\ru\DevExpress.Map.v18.2.Core.resources.dll
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Form3.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.PendingOrder_SAPAR.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Sales.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SalesReturn.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SalesReturn_Details.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SalesReturn_Form.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SalesTab.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SAPARDone.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SAPARDoneDetails.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.Select_SalesReturn.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.SOATab.resources
+D:\net projects\Delicious Partner App\AB\obj\x86\Debug\AB.exe.licenses
+D:\net projects\Delicious Partner App\AB\bin\x86\Debug\DeliciousPartnerApp.exe.config

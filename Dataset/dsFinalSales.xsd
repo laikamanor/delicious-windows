@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsFinalSales" targetNamespace="http://tempuri.org/dsFinalSales.xsd" xmlns:mstns="http://tempuri.org/dsFinalSales.xsd" xmlns="http://tempuri.org/dsFinalSales.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsFinalSales" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsFinalSales" msprop:Generator_UserDSName="dsFinalSales">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="row" msprop:Generator_TableClassName="rowDataTable" msprop:Generator_TableVarName="tablerow" msprop:Generator_TablePropName="row" msprop:Generator_RowDeletingName="rowRowDeleting" msprop:Generator_RowChangingName="rowRowChanging" msprop:Generator_RowEvHandlerName="rowRowChangeEventHandler" msprop:Generator_RowDeletedName="rowRowDeleted" msprop:Generator_UserTableName="row" msprop:Generator_RowChangedName="rowRowChanged" msprop:Generator_RowEvArgName="rowRowChangeEvent" msprop:Generator_RowClassName="rowRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="total_cash_on_hand" msprop:Generator_ColumnVarNameInTable="columntotal_cash_on_hand" msprop:Generator_ColumnPropNameInRow="total_cash_on_hand" msprop:Generator_ColumnPropNameInTable="total_cash_on_handColumn" msprop:Generator_UserColumnName="total_cash_on_hand" type="xs:double" minOccurs="0" />
+              <xs:element name="total_cash_payment" msprop:Generator_ColumnVarNameInTable="columntotal_cash_payment" msprop:Generator_ColumnPropNameInRow="total_cash_payment" msprop:Generator_ColumnPropNameInTable="total_cash_paymentColumn" msprop:Generator_UserColumnName="total_cash_payment" type="xs:double" minOccurs="0" />
+              <xs:element name="total_cash_deposit" msprop:Generator_ColumnVarNameInTable="columntotal_cash_deposit" msprop:Generator_ColumnPropNameInRow="total_cash_deposit" msprop:Generator_ColumnPropNameInTable="total_cash_depositColumn" msprop:Generator_UserColumnName="total_cash_deposit" type="xs:double" minOccurs="0" />
+              <xs:element name="total_used_dep_payment" msprop:Generator_ColumnVarNameInTable="columntotal_used_dep_payment" msprop:Generator_ColumnPropNameInRow="total_used_dep_payment" msprop:Generator_ColumnPropNameInTable="total_used_dep_paymentColumn" msprop:Generator_UserColumnName="total_used_dep_payment" type="xs:double" minOccurs="0" />
+              <xs:element name="total_bank_dep_payment" msprop:Generator_ColumnVarNameInTable="columntotal_bank_dep_payment" msprop:Generator_ColumnPropNameInRow="total_bank_dep_payment" msprop:Generator_ColumnPropNameInTable="total_bank_dep_paymentColumn" msprop:Generator_UserColumnName="total_bank_dep_payment" type="xs:double" minOccurs="0" />
+              <xs:element name="total_epay_payment" msprop:Generator_ColumnVarNameInTable="columntotal_epay_payment" msprop:Generator_ColumnPropNameInRow="total_epay_payment" msprop:Generator_ColumnPropNameInTable="total_epay_paymentColumn" msprop:Generator_UserColumnName="total_epay_payment" type="xs:double" minOccurs="0" />
+              <xs:element name="total_gcert_payment" msprop:Generator_ColumnVarNameInTable="columntotal_gcert_payment" msprop:Generator_ColumnPropNameInRow="total_gcert_payment" msprop:Generator_ColumnPropNameInTable="total_gcert_paymentColumn" msprop:Generator_UserColumnName="total_gcert_payment" type="xs:double" minOccurs="0" />
+              <xs:element name="gross" msprop:Generator_ColumnVarNameInTable="columngross" msprop:Generator_ColumnPropNameInRow="gross" msprop:Generator_ColumnPropNameInTable="grossColumn" msprop:Generator_UserColumnName="gross" type="xs:double" minOccurs="0" />
+              <xs:element name="net_sales" msprop:Generator_ColumnVarNameInTable="columnnet_sales" msprop:Generator_ColumnPropNameInRow="net_sales" msprop:Generator_ColumnPropNameInTable="net_salesColumn" msprop:Generator_UserColumnName="net_sales" type="xs:double" minOccurs="0" />
+              <xs:element name="disc_amount" msprop:Generator_ColumnVarNameInTable="columndisc_amount" msprop:Generator_ColumnPropNameInRow="disc_amount" msprop:Generator_ColumnPropNameInTable="disc_amountColumn" msprop:Generator_UserColumnName="disc_amount" type="xs:double" minOccurs="0" />
+              <xs:element name="gross_cash_sales" msprop:Generator_ColumnVarNameInTable="columngross_cash_sales" msprop:Generator_ColumnPropNameInRow="gross_cash_sales" msprop:Generator_ColumnPropNameInTable="gross_cash_salesColumn" msprop:Generator_UserColumnName="gross_cash_sales" type="xs:double" minOccurs="0" />
+              <xs:element name="disc_cash_sales" msprop:Generator_ColumnVarNameInTable="columndisc_cash_sales" msprop:Generator_ColumnPropNameInRow="disc_cash_sales" msprop:Generator_ColumnPropNameInTable="disc_cash_salesColumn" msprop:Generator_UserColumnName="disc_cash_sales" type="xs:double" minOccurs="0" />
+              <xs:element name="net_cash_sales" msprop:Generator_ColumnVarNameInTable="columnnet_cash_sales" msprop:Generator_ColumnPropNameInRow="net_cash_sales" msprop:Generator_ColumnPropNameInTable="net_cash_salesColumn" msprop:Generator_UserColumnName="net_cash_sales" type="xs:double" minOccurs="0" />
+              <xs:element name="gross_ar_sales" msprop:Generator_ColumnVarNameInTable="columngross_ar_sales" msprop:Generator_ColumnPropNameInRow="gross_ar_sales" msprop:Generator_ColumnPropNameInTable="gross_ar_salesColumn" msprop:Generator_UserColumnName="gross_ar_sales" type="xs:double" minOccurs="0" />
+              <xs:element name="disc_ar_sales" msprop:Generator_ColumnVarNameInTable="columndisc_ar_sales" msprop:Generator_ColumnPropNameInRow="disc_ar_sales" msprop:Generator_ColumnPropNameInTable="disc_ar_salesColumn" msprop:Generator_UserColumnName="disc_ar_sales" type="xs:double" minOccurs="0" />
+              <xs:element name="net_ar_sales" msprop:Generator_ColumnVarNameInTable="columnnet_ar_sales" msprop:Generator_ColumnPropNameInRow="net_ar_sales" msprop:Generator_ColumnPropNameInTable="net_ar_salesColumn" msprop:Generator_UserColumnName="net_ar_sales" type="xs:double" minOccurs="0" />
+              <xs:element name="gross_agent_sales" msprop:Generator_ColumnVarNameInTable="columngross_agent_sales" msprop:Generator_ColumnPropNameInRow="gross_agent_sales" msprop:Generator_ColumnPropNameInTable="gross_agent_salesColumn" msprop:Generator_UserColumnName="gross_agent_sales" type="xs:double" minOccurs="0" />
+              <xs:element name="disc_agent_sales" msprop:Generator_ColumnVarNameInTable="columndisc_agent_sales" msprop:Generator_ColumnPropNameInRow="disc_agent_sales" msprop:Generator_ColumnPropNameInTable="disc_agent_salesColumn" msprop:Generator_UserColumnName="disc_agent_sales" type="xs:double" minOccurs="0" />
+              <xs:element name="net_agent_sales" msprop:Generator_ColumnVarNameInTable="columnnet_agent_sales" msprop:Generator_ColumnPropNameInRow="net_agent_sales" msprop:Generator_ColumnPropNameInTable="net_agent_salesColumn" msprop:Generator_UserColumnName="net_agent_sales" type="xs:double" minOccurs="0" />
+              <xs:element name="actual_cash" msprop:Generator_ColumnVarNameInTable="columnactual_cash" msprop:Generator_ColumnPropNameInRow="actual_cash" msprop:Generator_ColumnPropNameInTable="actual_cashColumn" msprop:Generator_UserColumnName="actual_cash" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

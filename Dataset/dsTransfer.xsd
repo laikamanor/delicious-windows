@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsTransfer" targetNamespace="http://tempuri.org/dsTransfer.xsd" xmlns:mstns="http://tempuri.org/dsTransfer.xsd" xmlns="http://tempuri.org/dsTransfer.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsTransfer" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsTransfer" msprop:Generator_UserDSName="dsTransfer">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="transfer" msprop:Generator_TableClassName="transferDataTable" msprop:Generator_TableVarName="tabletransfer" msprop:Generator_RowChangedName="transferRowChanged" msprop:Generator_TablePropName="transfer" msprop:Generator_RowDeletingName="transferRowDeleting" msprop:Generator_RowChangingName="transferRowChanging" msprop:Generator_RowEvHandlerName="transferRowChangeEventHandler" msprop:Generator_RowDeletedName="transferRowDeleted" msprop:Generator_RowClassName="transferRow" msprop:Generator_UserTableName="transfer" msprop:Generator_RowEvArgName="transferRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="reference" msprop:Generator_ColumnVarNameInTable="columnreference" msprop:Generator_ColumnPropNameInRow="reference" msprop:Generator_ColumnPropNameInTable="referenceColumn" msprop:Generator_UserColumnName="reference" type="xs:string" minOccurs="0" />
+              <xs:element name="document_status" msprop:Generator_ColumnVarNameInTable="columndocument_status" msprop:Generator_ColumnPropNameInRow="document_status" msprop:Generator_ColumnPropNameInTable="document_statusColumn" msprop:Generator_UserColumnName="document_status" type="xs:string" minOccurs="0" />
+              <xs:element name="transdate" msprop:Generator_ColumnVarNameInTable="columntransdate" msprop:Generator_ColumnPropNameInRow="transdate" msprop:Generator_ColumnPropNameInTable="transdateColumn" msprop:Generator_UserColumnName="transdate" type="xs:string" minOccurs="0" />
+              <xs:element name="from_whse" msprop:Generator_ColumnVarNameInTable="columnfrom_whse" msprop:Generator_ColumnPropNameInRow="from_whse" msprop:Generator_ColumnPropNameInTable="from_whseColumn" msprop:Generator_UserColumnName="from_whse" type="xs:string" minOccurs="0" />
+              <xs:element name="to_whse" msprop:Generator_ColumnVarNameInTable="columnto_whse" msprop:Generator_ColumnPropNameInRow="to_whse" msprop:Generator_ColumnPropNameInTable="to_whseColumn" msprop:Generator_UserColumnName="to_whse" type="xs:string" minOccurs="0" />
+              <xs:element name="item_code" msprop:Generator_ColumnVarNameInTable="columnitem_code" msprop:Generator_ColumnPropNameInRow="item_code" msprop:Generator_ColumnPropNameInTable="item_codeColumn" msprop:Generator_UserColumnName="item_code" type="xs:string" minOccurs="0" />
+              <xs:element name="quantity" msprop:Generator_ColumnVarNameInTable="columnquantity" msprop:Generator_ColumnPropNameInRow="quantity" msprop:Generator_ColumnPropNameInTable="quantityColumn" msprop:Generator_UserColumnName="quantity" type="xs:double" minOccurs="0" />
+              <xs:element name="actual_receive" msprop:Generator_ColumnVarNameInTable="columnactual_receive" msprop:Generator_ColumnPropNameInRow="actual_receive" msprop:Generator_ColumnPropNameInTable="actual_receiveColumn" msprop:Generator_UserColumnName="actual_receive" type="xs:double" minOccurs="0" />
+              <xs:element name="variance" msprop:Generator_ColumnVarNameInTable="columnvariance" msprop:Generator_ColumnPropNameInRow="variance" msprop:Generator_ColumnPropNameInTable="varianceColumn" msprop:Generator_UserColumnName="variance" type="xs:double" minOccurs="0" />
+              <xs:element name="price" msprop:Generator_ColumnVarNameInTable="columnprice" msprop:Generator_ColumnPropNameInRow="price" msprop:Generator_ColumnPropNameInTable="priceColumn" msprop:Generator_UserColumnName="price" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsEmployeeCharge" targetNamespace="http://tempuri.org/dsEmployeeCharge.xsd" xmlns:mstns="http://tempuri.org/dsEmployeeCharge.xsd" xmlns="http://tempuri.org/dsEmployeeCharge.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsEmployeeCharge" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsEmployeeCharge" msprop:Generator_UserDSName="dsEmployeeCharge">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="employee_charge" msprop:Generator_TableClassName="employee_chargeDataTable" msprop:Generator_TableVarName="tableemployee_charge" msprop:Generator_TablePropName="employee_charge" msprop:Generator_RowDeletingName="employee_chargeRowDeleting" msprop:Generator_RowChangingName="employee_chargeRowChanging" msprop:Generator_RowEvHandlerName="employee_chargeRowChangeEventHandler" msprop:Generator_RowDeletedName="employee_chargeRowDeleted" msprop:Generator_UserTableName="employee_charge" msprop:Generator_RowChangedName="employee_chargeRowChanged" msprop:Generator_RowEvArgName="employee_chargeRowChangeEvent" msprop:Generator_RowClassName="employee_chargeRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="reference" msprop:Generator_ColumnVarNameInTable="columnreference" msprop:Generator_ColumnPropNameInRow="reference" msprop:Generator_ColumnPropNameInTable="referenceColumn" msprop:Generator_UserColumnName="reference" type="xs:string" minOccurs="0" />
+              <xs:element name="transdate" msprop:Generator_ColumnVarNameInTable="columntransdate" msprop:Generator_ColumnPropNameInRow="transdate" msprop:Generator_ColumnPropNameInTable="transdateColumn" msprop:Generator_UserColumnName="transdate" type="xs:string" minOccurs="0" />
+              <xs:element name="cust_code" msprop:Generator_ColumnVarNameInTable="columncust_code" msprop:Generator_ColumnPropNameInRow="cust_code" msprop:Generator_ColumnPropNameInTable="cust_codeColumn" msprop:Generator_UserColumnName="cust_code" type="xs:string" minOccurs="0" />
+              <xs:element name="gl_account" msprop:Generator_ColumnVarNameInTable="columngl_account" msprop:Generator_ColumnPropNameInRow="gl_account" msprop:Generator_ColumnPropNameInTable="gl_accountColumn" msprop:Generator_UserColumnName="gl_account" type="xs:string" minOccurs="0" />
+              <xs:element name="doctotal" msprop:Generator_ColumnVarNameInTable="columndoctotal" msprop:Generator_ColumnPropNameInRow="doctotal" msprop:Generator_ColumnPropNameInTable="doctotalColumn" msprop:Generator_UserColumnName="doctotal" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

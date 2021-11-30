@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsDiscountTypeSummary" targetNamespace="http://tempuri.org/dsDiscountTypeSummary.xsd" xmlns:mstns="http://tempuri.org/dsDiscountTypeSummary.xsd" xmlns="http://tempuri.org/dsDiscountTypeSummary.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsDiscountTypeSummary" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsDiscountTypeSummary" msprop:Generator_UserDSName="dsDiscountTypeSummary">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="discountTypeSummary" msprop:Generator_TableClassName="discountTypeSummaryDataTable" msprop:Generator_TableVarName="tablediscountTypeSummary" msprop:Generator_TablePropName="discountTypeSummary" msprop:Generator_RowDeletingName="discountTypeSummaryRowDeleting" msprop:Generator_RowChangingName="discountTypeSummaryRowChanging" msprop:Generator_RowEvHandlerName="discountTypeSummaryRowChangeEventHandler" msprop:Generator_RowDeletedName="discountTypeSummaryRowDeleted" msprop:Generator_UserTableName="discountTypeSummary" msprop:Generator_RowChangedName="discountTypeSummaryRowChanged" msprop:Generator_RowEvArgName="discountTypeSummaryRowChangeEvent" msprop:Generator_RowClassName="discountTypeSummaryRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="disctype" msprop:Generator_ColumnVarNameInTable="columndisctype" msprop:Generator_ColumnPropNameInRow="disctype" msprop:Generator_ColumnPropNameInTable="disctypeColumn" msprop:Generator_UserColumnName="disctype" type="xs:string" minOccurs="0" />
+              <xs:element name="total" msprop:Generator_ColumnVarNameInTable="columntotal" msprop:Generator_ColumnPropNameInRow="total" msprop:Generator_ColumnPropNameInTable="totalColumn" msprop:Generator_UserColumnName="total" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
